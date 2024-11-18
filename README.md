@@ -1,4 +1,4 @@
-# persnal-finanace-management-app
+# personal-finanace-management-app
 DESCRIPTION:
 A personal finance management app helps individuals manage their financial health by tracking income, expenses, savings, and investments. It typically provides features such as budget planning, bill reminders, financial goal setting, and expense categorization. The main goal of such an app is to simplify the process of managing finances and improve financial literacy. For example, users can set savings goals, track progress, and receive notifications when they approach their financial limits, helping to reduce overspending.
 •	AI-driven Insights: Integrating AI to provide personalized financial advice based on spending patterns, goals, and market trends.
@@ -15,4 +15,4 @@ TEAM MEMBERS:
 
 
 
-Demo video link:https://drive.google.com/file/d/1K_CUg__a0IECGjjszlC8DPcjS7WqF61b/view?usp=drivesdk
+Demo video link:https://drive.google.com/file/d/1LDkgFRAgeF7x4m3SkKfO3d531khLP2VP/view?usp=drivesdk
